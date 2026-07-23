@@ -1,0 +1,6 @@
+{
+  "name": "Agriculture & Food Dashboard",
+  "description": "Papan Pemuka Pertanian & Keterjaminan Makanan berdasarkan sumber data rasmi OpenDOSM (open.dosm.gov.my), data.gov.my, Open Data MATRADE, dan KPKM.gov.my.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
